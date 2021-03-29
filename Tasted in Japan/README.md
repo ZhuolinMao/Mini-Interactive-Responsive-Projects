@@ -1,0 +1,3 @@
+- expanding cards showing the clicked one
+- responsive
+- with some animations.
