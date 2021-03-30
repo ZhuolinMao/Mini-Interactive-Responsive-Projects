@@ -1,0 +1,2 @@
+- show task progress step by step by clicking in the buttons
+- go forwards or backwards
