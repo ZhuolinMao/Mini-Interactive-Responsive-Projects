@@ -1,0 +1,2 @@
+- click the button at the top left corner and a rotating navbar will show/hide
+- use the navbar links to navigate to/from different pages
