@@ -1,0 +1,2 @@
+- click the search button to expand the searchbox
+- the searchbox will hide back when it loses focus
