@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Lexend:wght@600&display=swap');
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family    : 'Lexend', sans-serif;
+    margin         : 0;
+    display        : flex;
+    align-items    : center;
+    justify-content: center;
+    height         : 100vh;
+    overflow       : hidden;
+}
+
+.bg {
+    background: url(./todaiji.jpg) no-repeat center center/cover;
+    position  : absolute;
+    top       : -10px;
+    left      : -10px;
+    width     : calc(100vw + 20px);
+    /* 100vw; */
+    height    : calc(100vh + 20px);
+    z-index   : -1;
+    filter    : blur(0px);
+}
+
+.loading-text {
+    font-size: 20px;
+    color    : #fff;
+}
