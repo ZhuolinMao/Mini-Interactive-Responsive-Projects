@@ -1,0 +1,1 @@
+- each side of the landing page will enlarge/shrink when mouse in/out
